@@ -34,6 +34,7 @@ env/
 venv/
 .env
 test_venv/
+.venv/
 
 # built protos
 # *_pb2.py
